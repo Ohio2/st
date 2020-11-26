@@ -1,4 +1,4 @@
-# Luke's build of st - the simple (suckless) terminal
+# Ohio2's (i forked it from LukeSmithxyz) build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
